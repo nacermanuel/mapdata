@@ -312,6 +312,22 @@ export const dataA =
                 headequarterLocation: ['location 1'],
                 activeIn: ['active 1'],
               },
+              {
+                image: './assets/interactive-map/categories/category-3/logo-1.png',
+                url: 'example.com',
+                keywords: ['international', 'keyword 4'],
+                subcategories: ['subcategory 1'],
+                headequarterLocation: ['location 1'],
+                activeIn: ['active 1'],
+              },         
+              {
+                image: './assets/interactive-map/categories/category-3/logo-1.png',
+                url: 'example.com',
+                keywords: ['international', 'keyword 4'],
+                subcategories: ['subcategory 1'],
+                headequarterLocation: ['location 1'],
+                activeIn: ['active 1'],
+              },                   
             ]
           },
           {
@@ -710,7 +726,7 @@ export const dataA =
                 subcategories: ['subcategory 3'],
                 headequarterLocation: ['location 3'],
                 activeIn: ['active 3'],
-              },
+              },              
             ]
           },
           {
