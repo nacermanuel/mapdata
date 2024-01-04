@@ -327,7 +327,15 @@ export const dataA =
                 subcategories: ['subcategory 1'],
                 headequarterLocation: ['location 1'],
                 activeIn: ['active 1'],
-              },                   
+              },    
+              {
+                image: './assets/interactive-map/categories/category-2/logo-5.png',
+                url: 'example.com',
+                keywords: ['international', 'keyword 4'],
+                subcategories: ['subcategory 2'],
+                headequarterLocation: ['location 2'],
+                activeIn: ['active 2'],
+              },                             
             ]
           },
           {
